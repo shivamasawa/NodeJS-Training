@@ -1,0 +1,17 @@
+{
+  "name": "training",
+  "version": "1.5.0",
+  "description": "This file is for training purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Asawa",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^74.0.0",
+    "nightwatch": "^1.0.19",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
